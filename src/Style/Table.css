@@ -1,0 +1,17 @@
+.status-pending {
+    background-color: rgb(245, 245, 118) !important;
+    border-radius: 20px;
+    color: white !important;
+}
+
+.status-in-transit {
+    background-color: rgb(64, 64, 170) !important;
+    color: white !important;
+    border-radius: 20px;
+}
+
+.status-delivered {
+    color: white !important;
+    background-color: rgb(158 226 158) !important;
+    border-radius: 20px;
+}
